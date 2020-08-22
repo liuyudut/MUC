@@ -1,6 +1,6 @@
 # More Classifiers, Less Forgetting: A Generic Multi-classifier Paradigm for Incremental Learning (ECCV 2020)
 - Exploit the classifier ensemble for reducing forgetting on learning tasks incrementally.
-- Extend two regularization methods (MAS and LwF) focusing on parameter and activation regularization, respectively.
+- Extend two regularization methods (MAS and LwF) focusing on parameter and activation regularization.
 - Obtain consistent improvements over the single-classifier paradigm.
 
 ![architecture](https://github.com/Liuy8/Explainable-ZSL/blob/master/diversity_consistency.png)
