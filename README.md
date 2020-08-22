@@ -1,4 +1,4 @@
-# More Classifiers, Less Forgetting: A Generic Multi-classifier Paradigm for Incremental Learning (ECCV 2020)
+## More Classifiers, Less Forgetting: A Generic Multi-classifier Paradigm for Incremental Learning (ECCV 2020)
 - Exploit the classifier ensemble for reducing forgetting on learning tasks incrementally.
 - Extend two regularization methods (MAS and LwF) focusing on parameter and activation regularization.
 - Obtain consistent improvements over the single-classifier paradigm.
@@ -33,3 +33,14 @@
 ## Notes
 
 More instructions will be provided later.
+
+# Citation
+Please cite the following paper if it is helpful for your research:
+```
+@InProceedings{MUC_ECCV2020,
+author = {Liu, Yu and Parisot, Sarah and Slabaugh, Gregory and Jia, Xu and Leonardis,Ales and Tuytelaars, Tinne}
+title = {More Classifiers, Less Forgetting: A Generic Multi-classifier Paradigm for Incremental Learning},
+booktitle = {European Conference on Computer Vision (ECCV)},
+year = {2020}
+}
+```
