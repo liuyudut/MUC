@@ -31,8 +31,8 @@
 - Run ```tinyimagenet_MUC_LwF.py``` to train the MUC-LwF method.
 
 ## Notes
-
-More instructions will be provided later.
+- Some codes are based on the codebase of the [repository](https://github.com/hshustc/CVPR19_Incremental_Learning).
+- More instructions will be provided later.
 
 # Citation
 Please cite the following paper if it is helpful for your research:
