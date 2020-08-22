@@ -15,7 +15,7 @@
 ## Data
 
 - Download the dataset (CIFAR-100, Tiny-ImageNet, SVHN) and save them to the 'data' directory.
-- SVHN is used as an out-of-distribution dataaset to train additional side classifiers.
+- SVHN is used as an out-of-distribution dataset for training additional side classifiers.
 
 
 ## Experiment on CIFAR-100 incremental benchmark
