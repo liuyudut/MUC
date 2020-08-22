@@ -19,7 +19,7 @@ try:
     import cPickle as pickle
 except:
     import pickle
-import resnet_cifar
+import resnet_model
 import utils_pytorch
 from compute_accuracy import compute_accuracy_WI
 from compute_accuracy import compute_accuracy_Version1
