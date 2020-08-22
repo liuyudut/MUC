@@ -3,7 +3,7 @@
 - Extend two regularization methods (MAS and LwF) focusing on parameter and activation regularization.
 - Obtain consistent improvements over the single-classifier paradigm.
 
-![architecture](https://github.com/Liuy8/Explainable-ZSL/blob/master/diversity_consistency.png)
+![architecture](https://github.com/Liuy8/MUC/blob/master/MUC_overview.png)
 
 ## Dependencies
 
